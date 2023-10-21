@@ -1,0 +1,1 @@
+echo "Oğuzhan Deniz 2023";
