@@ -1,0 +1,28 @@
+{
+	"Firma" : "XYZ SOFTWARE", 
+	"Yonetici" : "Oğuzhan Deniz",
+	"Egitimler" : [
+		"HTML",
+		"CSS3",
+		"JS",
+		"PHP"
+	],
+	"Egitmenler" : [
+		{
+			"Adi" : "Kubilay Ertaş",
+			"Ders" : "HTML"
+		},
+		{
+			"Adi" : "Hamit Uluışık",
+			"Ders" : "CSS3"
+		},
+		{
+			"Adi" : "Mazlum Doğumtekin",
+			"Ders" : "JS"
+		},
+		{
+			"Adi" : "Oğuzhan Deniz",
+			"Ders" : "PHP"
+		}
+	]
+	}
