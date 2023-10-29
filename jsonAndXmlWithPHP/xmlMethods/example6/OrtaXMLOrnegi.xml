@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OGUZ>
+	<NAME>Oğuzhan Deniz</NAME>
+	<SCHOOL>Karabük Üniversitesi</SCHOOL>
+	<LESSONS>
+		<LESSON id="Bir">HTML5</LESSON>
+		<LESSON id="Iki">CSS3</LESSON>
+		<LESSON id="Uc">JAVASCRIPT</LESSON>
+		<LESSON id="Dort">PHP7</LESSON>
+	</LESSONS>
+	<TEACHERS>
+		<TEACHER id="1">
+			<ADI>Halim Can Ocaklı</ADI>
+			<KURSADI>PHP7</KURSADI>
+		</TEACHER>
+		<TEACHER id="2">
+			<ADI>Ataberk Mercan</ADI>
+			<KURSADI>HTML5</KURSADI>
+		</TEACHER>
+		<TEACHER id="3">
+			<ADI>Oğuzhan Deniz</ADI>
+			<KURSADI>CSS3</KURSADI>
+		</TEACHER>
+		<TEACHER id="4">
+			<ADI>Berkin Topaloğlu</ADI>
+			<KURSADI>JAVASCRIPT</KURSADI>
+		</TEACHER>
+	</TEACHERS>
+</OGUZ>
